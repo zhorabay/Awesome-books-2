@@ -40,7 +40,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo link](https://zhorabay.github.io/Awesome-books/)
+- [Live Demo link](https://zhorabay.github.io/Awesome-books-2/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
