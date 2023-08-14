@@ -16,7 +16,9 @@
       "eol-last": "off",
       "import/extensions": [ 1, {
         "js": "always", "json": "always"
-      }]
+      }],
+      "import/prefer-default-export": "off",
+      "max-len": ["error", { "code": 600 }]
     },
     "ignorePatterns": [
       "dist/",
